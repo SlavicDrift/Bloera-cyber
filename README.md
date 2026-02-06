@@ -1,5 +1,5 @@
 # Bloera-cyber
-# 👋 Hi, I'm [Your Name] - Cybersecurity Aspirant
+# 👋 Hi, I'm Brian - Cybersecurity Aspirant
 
 ## 🔒 About Me
 - 🎯 Currently focusing on: [e.g., Network Security, Python for Security, SOC Skills]
