@@ -11,7 +11,7 @@
 
 | Project | Description | Tools/Skills |
 |---------|-------------|--------------|
-| [Home SIEM Lab](link) | Built ELK stack to monitor network traffic | Elastic, Linux, Wireshark |
+| [Home SIEM Lab](link) | Built ELK stack to monitor network traffic | Wazuh, Linux, Wireshark |
 | [Python Log Analyzer](link) | Script to detect failed SSH attempts | Python, Regex, Linux |
 | [THM Write-ups](link) | Complete walkthroughs of TryHackMe rooms | Pentesting, Documentation |
 
